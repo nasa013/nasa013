@@ -54,6 +54,14 @@ I'm a **21-year-old** senior at the Faculty of Computers and Information, majori
 - Completing online specializations in **Data Science** and **HR Management**.  
 
 ---
+## 📊  Stats  
+
+### 🔥 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasa013&layout=compact&theme=radical)  
+
+## 🏆 GitHub Trophies  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nasa013&theme=gruvbox&row=1&column=6)  
 
 ## 🤝 Let's Connect!  
 - **LinkedIn**: [(https://www.linkedin.com/in/nada-khaled-b00306214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](#)  
