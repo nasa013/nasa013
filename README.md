@@ -56,9 +56,9 @@ I'm a **21-year-old** senior at the Faculty of Computers and Information, majori
 ---
 
 ## 🤝 Let's Connect!  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **GitHub**: [Your GitHub Profile](#)  
-- **Email**: nada.khaled@example.com  
+- **LinkedIn**: [(https://www.linkedin.com/in/nada-khaled-b00306214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](#)  
+  
+- **Email**: nadak2982@gmail.com  
 
 📌 Open to opportunities in AI, data science, mental health tech, and video editing projects.  
 🚀 Let’s innovate and create together!  
