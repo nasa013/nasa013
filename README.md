@@ -34,7 +34,6 @@ I'm a **21-year-old** senior at the Faculty of Computers and Information, majori
 ## 🛠️ Skills  
 - **Data Analysis & Machine Learning**: Pandas, NumPy, Scikit-Learn.  
 - **Deep Learning**: TensorFlow, PyTorch.  
-- **Web Development**: JavaScript, React (learning in progress).  
 - **Visualization**: Matplotlib, Seaborn.  
 - **Video Editing**: Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve.  
 - **Version Control**: GitHub.  
@@ -44,14 +43,13 @@ I'm a **21-year-old** senior at the Faculty of Computers and Information, majori
 ## 🏆 Achievements  
 - Successfully integrated **AI-driven features** into projects like nutritional chatbots and recommendation systems.  
 - Built hybrid recommendation models merging restaurant and recipe datasets.  
-- Contributed to proposals for AI-powered freelance platforms and sustainability robotics projects.  
 - Edited and produced engaging video content for personal and academic projects.  
 
 ---
 
 ## 📖 Ongoing Learning  
-- Deepening my knowledge in **Generative AI**, **Digital Twins**, and **IoT**.  
-- Completing online specializations in **Data Science** and **HR Management**.  
+- Deepening my knowledge in **Generative AI**
+- Completing online specializations in **Data Science** 
 
 ---
 ## 📊  Stats  
