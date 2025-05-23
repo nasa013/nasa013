@@ -11,31 +11,16 @@ I'm a **21-year-old** senior at the Faculty of Computers and Information, majori
 
 ### 🧠 Interests and Goals  
 - Building innovative AI-driven solutions for real-world challenges.  
-- Developing **VR-based mental health applications** and **speech-to-text systems**.  
-- Exploring **sustainable tech**, like robotics for beach-cleaning and waste repurposing.  
+- Exploring **sustainable tech**.  
 - Crafting engaging **video content** with creative storytelling techniques.  
-
----
-
-## 🌍 Current Projects  
-1. **Real-Time Speech-to-Text System**  
-   - Part of the **Generative AI Professionals track**, utilizing **Whisper** and Hugging Face models.  
-   - Tech Stack: Python, TensorFlow, WebSocket, cloud-based servers.  
-
-2. **VR Mental Health Platform**  
-   - Combines AI and VR to diagnose mental health conditions like anxiety and depression.  
-   - Features include interactive avatars for diagnosis and a therapist reporting system.  
-
-3. **Lung Cancer Prediction System**  
-   - Machine learning-based prediction system to enhance early detection.  
 
 ---
 
 ## 🛠️ Skills  
 - **Data Analysis & Machine Learning**: Pandas, NumPy, Scikit-Learn.  
-- **Deep Learning**: TensorFlow, PyTorch.  
+- **Deep Learning**: PyTorch.  
 - **Visualization**: Matplotlib, Seaborn.  
-- **Video Editing**: Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve.  
+- **Video Editing**: Adobe Premiere Pro, DaVinci Resolve.  
 - **Version Control**: GitHub.  
 
 ---
@@ -66,5 +51,5 @@ I'm a **21-year-old** senior at the Faculty of Computers and Information, majori
   
 - **Email**: nadak2982@gmail.com  
 
-📌 Open to opportunities in AI, data science, mental health tech, and video editing projects.  
+📌 Open to opportunities in AI, data science, and video editing projects.  
 🚀 Let’s innovate and create together!  
