@@ -1,40 +1,21 @@
-# 👋 Hi there, I'm Nada Khaled!  
+# 👋 Hi there, I'm Nada Khaled! — Building AI That Cares  
 
-🎓 **Computer Science Student** | 📍 Mansoura University, Egypt  
+🎓 I'm a Computer Science graduate from Mansoura University, passionate about building real-world AI solutions that create positive impact.
+
 🔍 **Passionate about:** Artificial Intelligence, Media, Design, and Sustainable Solutions  
 🛠️ **Tools & Technologies:** Python, Pandas, NumPy, Matplotlib, TensorFlow, PyTorch, Anaconda, Visual Studio Code  
 
----
-
-## 🌟 About Me  
-I'm a **21-year-old** senior at the Faculty of Computers and Information, majoring in **Computer Science**. My journey is fueled by a passion for technology and creativity, spanning fields like **AI**, **generative design**, **mental health innovation**, and **video editing**.  
-
-### 🧠 Interests and Goals  
-- Building innovative AI-driven solutions for real-world challenges.  
-- Exploring **sustainable tech**.  
-- Crafting engaging **video content** with creative storytelling techniques.  
 
 ---
 
 ## 🛠️ Skills  
 - **Data Analysis & Machine Learning**: Pandas, NumPy, Scikit-Learn.  
 - **Deep Learning**: PyTorch.  
-- **Visualization**: Matplotlib, Seaborn.  
-- **Video Editing**: Adobe Premiere Pro, DaVinci Resolve.  
+- **Visualization**: Matplotlib, Seaborn.
+- **ML/NLP**: Whisper, LLaMA 3, AraT5, BERT, LoRA, PEFT, RoBERTa
+- **Other**: REST APIs, WebSocket
+- **Video Editing**: Adobe Premiere Pro
 - **Version Control**: GitHub.  
-
----
-
-## 🏆 Achievements  
-- Successfully integrated **AI-driven features** into projects like nutritional chatbots and recommendation systems.  
-- Built hybrid recommendation models merging restaurant and recipe datasets.  
-- Edited and produced engaging video content for personal and academic projects.  
-
----
-
-## 📖 Ongoing Learning  
-- Deepening my knowledge in **Generative AI**
-- Completing online specializations in **Data Science** 
 
 ---
 ## 📊  Stats  
@@ -51,5 +32,4 @@ I'm a **21-year-old** senior at the Faculty of Computers and Information, majori
   
 - **Email**: nadak2982@gmail.com  
 
-📌 Open to opportunities in AI, data science, and video editing projects.  
-🚀 Let’s innovate and create together!  
+📌 Always learning. Always building.
