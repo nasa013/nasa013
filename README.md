@@ -1,10 +1,7 @@
 # 👋 Hi there, I'm Nada Khaled! — Building AI That Cares  
 
 🎓 I'm a Computer Science graduate from Mansoura University, passionate about building real-world AI solutions that create positive impact.
-
-🔍 **Passionate about:** Artificial Intelligence, Media, Design, and Sustainable Solutions  
-🛠️ **Tools & Technologies:** Python, Pandas, NumPy, Matplotlib, TensorFlow, PyTorch, Anaconda, Visual Studio Code  
-
+🔍 Passionate about: Artificial Intelligence, Media, Design, and Sustainable Solutions  
 
 ---
 
